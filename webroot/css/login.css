@@ -1,0 +1,21 @@
+
+.content-header h1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.container .txt-right {
+    text-align: right;
+}
+
+.container   a {
+    color: #9cc455;
+    width: 100%;
+    font-size: 14px;
+}
+
+.container .error{
+    background: #F9FBB2;
+}
