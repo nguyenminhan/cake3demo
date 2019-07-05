@@ -16,6 +16,16 @@
     font-size: 14px;
 }
 
-.container .error{
+.container .input_yellow{
     background: #F9FBB2;
+}
+.container button{
+    width:100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.container .error-message{
+    font-size: 15px;
+    color: red;
 }
